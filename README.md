@@ -1,8 +1,8 @@
 # Counting Cars in Real Time
 
 This project uses OpenVINO and centroid tracking algorithm to count cars in Real Time
-Video Demo
 
+Video Demo
 
 [![Video_Demo](https://img.youtube.com/vi/LXKNNdLjTJ0/0.jpg)](https://www.youtube.com/watch?v=LXKNNdLjTJ0)
 
